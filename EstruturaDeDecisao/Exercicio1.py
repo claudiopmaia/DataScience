@@ -1,0 +1,1 @@
+A, B int(input("Digite dois numeros"))
